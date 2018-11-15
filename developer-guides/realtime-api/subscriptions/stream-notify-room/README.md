@@ -6,6 +6,7 @@ Replace event from one in the list
 Events available:
 
 - deleteMessage
+- deleteMessageBulk
 - typing
 
 ```json
